@@ -1,0 +1,6 @@
+@DevMagicApi_HostAddress = http://localhost:5264
+
+GET {{DevMagicApi_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
