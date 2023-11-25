@@ -1,4 +1,4 @@
-export class DevMagic {
+export class Employee {
   employeeID?: number;
   clientID?: number;
   officeID?: number;
