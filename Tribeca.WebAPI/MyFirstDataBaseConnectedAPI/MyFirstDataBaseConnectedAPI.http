@@ -1,0 +1,6 @@
+@MyFirstDataBaseConnectedAPI_HostAddress = http://localhost:5280
+
+GET {{MyFirstDataBaseConnectedAPI_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

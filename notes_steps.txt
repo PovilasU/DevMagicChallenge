@@ -1,9 +1,0 @@
-
-Some notes:
-
-Create DevMagicAPI
-Add the DevMagic Model to the API
-Add the DevMagic Controller
-Add the DevMagic Model to the Client
-Generate an Angular Service with getEmplyees method
-Implement a Table to show User List
